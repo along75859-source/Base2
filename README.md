@@ -19,3 +19,4 @@ Refactor configuration files
 Update environment settings
 Add integration example
 Improve contract structure
+Update testing workflow
