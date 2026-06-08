@@ -21,3 +21,4 @@ Add integration example
 Improve contract structure
 Update testing workflow
 Add maintenance notes
+Refine folder layout
