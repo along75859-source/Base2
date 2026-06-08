@@ -4,3 +4,4 @@ Add developer notes
 Refine installation steps
 Improve project navigation
 Add sample configuration
+Update build documentation
