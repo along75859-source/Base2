@@ -7,3 +7,4 @@ Add sample configuration
 Update build documentation
 Add troubleshooting section
 Improve code readability
+Update repository information
