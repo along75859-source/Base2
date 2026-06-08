@@ -18,3 +18,4 @@ Improve script organization
 Refactor configuration files
 Update environment settings
 Add integration example
+Improve contract structure
