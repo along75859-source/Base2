@@ -30,3 +30,4 @@ Update security notes
 Add usage documentation
 Refine example code
 Improve repository structure
+Update development notes
